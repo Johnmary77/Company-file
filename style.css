@@ -1,0 +1,337 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.one{
+    position: relative;
+    left: 3rem;
+    border: 13px solid grey;
+    width: 50rem;
+    border-bottom: px solid grey;
+    
+}
+.First{
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+    height: 13rem;
+    width: 50rem;
+    
+    
+}
+.First i{
+    color: white;
+    padding-right: 48rem;
+    padding-top: 0.4rem;
+}
+.First h4{
+    padding-top: 2rem;
+    align-items: center;
+    color: white;
+}
+.First h2{
+    padding-top: 1rem;
+    align-items: center;
+    color: white;
+}
+.FOOD{
+    height: 1.5rem;
+    width: 8rem;
+    background-color: grey;
+    color: white;
+    margin-top: 2rem;
+}
+.Second{
+    
+    display: flex;
+    gap: 0.5rem;
+    width: 50rem;
+    height: 17rem;
+    padding-left: 0.4rem;
+    padding-bottom: 0.4rem;
+    padding-top: 0.4rem;
+    
+}
+.Respond{
+    border-color: whitesmoke;
+    border-radius: 10px;
+    width: 15.7rem;
+    border:2px solid whitesmoke;
+    
+    
+    
+    
+    
+    
+}
+.Respond h4{
+    text-align: center;
+    padding-top: 1.5rem;
+}
+.Respond i{
+    margin-left:5rem;
+    padding-top: 1.5rem;
+    font-size: 5rem;
+}
+.Respond p{
+    width: 13rem;
+    margin-left: 4rem;
+    padding-top: 1rem;
+    width: 8rem;
+    
+    
+}
+.Css{
+    border-color: whitesmoke;
+    border-radius: 10px;
+    width: 15rem;
+    border:2px solid whitesmoke;
+    width: 15.7rem;
+    
+}
+.Css i{
+    margin-left:5rem;
+    padding-top: 1.5rem;
+    font-size: 5rem;
+
+}
+.Css h4{
+    padding-top: 1.5rem;
+    text-align: center;
+}
+.Css p{
+    
+    width: 13rem;
+    margin-left: 3rem;
+    padding-top: 1rem;
+    width: 10rem;
+}
+.design{
+    border-color:whitesmoke;
+    border-radius: 10px;
+    border: 2px solid whitesmoke;
+    width: 15.7rem;
+}
+.design h4{
+    padding-top: 1.5rem;
+    text-align: center;
+
+}
+.design i{
+    margin-left:5rem;
+    padding-top: 1.5rem;
+    font-size: 4rem;
+}
+.design p{
+    
+    width: 103rem;
+    margin-left: 5rem;
+    padding-top: 1rem;
+    width: 8rem;
+}
+
+.two{
+    position: relative;
+    right: 21rem;
+    top: 3rem;
+    border: 9px solid grey;
+    width: 38.8rem;
+    height: 505px;
+    border-radius: 15px;
+    border-bottom: px solid grey;
+    border-left: 30px solid gray;
+    border-right:30px solid gray ;
+    
+}
+.solid{
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+    height: 13rem;
+    width: 38.8rem;
+    
+    
+}
+.solid i{
+    color: white;
+    padding-right: 37rem;
+    padding-top: 0.4rem;
+}
+.solid h4{
+    padding-top: 2rem;
+    align-items: center;
+    color: white;
+}
+.solid h2{
+    padding-top: 1rem;
+    align-items: center;
+    color: white;
+}
+.FOOD{
+    height: 1.5rem;
+    width: 8rem;
+    background-color: grey;
+    color: white;
+    margin-top: 2rem;
+}
+.third{
+    
+    display: flex;
+    gap: 0.5rem;
+    width: 37.9rem;
+    height: 17rem;
+    padding-left: 0.4rem;
+    padding-bottom: 0.4rem;
+    padding-top: 0.4rem;
+    background-color:white;
+    
+}
+.ponsive{
+    border-color: whitesmoke;
+    border-radius: 10px;
+    width: 12.5rem;
+    
+    border:2px solid whitesmoke;
+    
+    
+    
+    
+}
+.ponsive h4{
+    text-align: center;
+    padding-top: 1.5rem;
+}
+.ponsive i{
+    margin-left:3.5rem;
+    padding-top: 1.5rem;
+    font-size: 5rem;
+}
+.ponsive p{
+    width: 8rem;
+    margin-left: 2.8rem;
+    padding-top: 1rem;
+    
+    
+}
+.standard{
+    border-color: whitesmoke;
+    border-radius: 10px;
+    width: 12.5rem;
+    border:2px solid whitesmoke;
+    
+}
+.standard i{
+    margin-left:3.5rem;
+    padding-top: 1.5rem;
+    font-size: 5rem;
+}
+.standard h4{
+    padding-top: 1.5rem;
+    text-align: center;
+}
+.standard p{
+    
+    width: 8rem;
+    margin-left: 2.8rem;
+    padding-top: 1rem;
+}
+.lorem{
+    border-color: whitesmoke;
+    border-radius: 10px;
+    width: 12.5rem;
+    border:2px solid whitesmoke;
+}
+.lorem h4{
+    padding-top: 1.5rem;
+    text-align: center;
+
+}
+.lorem i{
+    margin-left:3.5rem;
+    padding-top: 1.5rem;
+    font-size: 5rem;
+}
+.lorem p{
+    width: 8rem;
+    margin-left: 2.8rem;
+    padding-top: 1rem;
+}
+.forth{
+    position: relative;
+    right: 24rem;
+    top: 4.4rem;
+    height: 28rem;
+    border: 13px solid grey;
+    width: 18rem;
+    border-radius: 25px;
+    border-top: 40px solid gray;
+    border-bottom:40px solid grey;
+}
+.Four{
+    text-align: center;
+    justify-content: center;
+    background-color: black;
+    height: 17rem;
+    width: 18rem; 
+}
+.Four i{
+    color: white;
+    margin-right: 16rem;
+    padding-top: 0.4rem;
+}
+.Four h4{
+    padding-top: 2rem;
+    align-items: center;
+    color: white;
+}
+.Four h2{
+    padding-top: 1.8rem;
+    align-items: center;
+    color: white;
+    font-size: 2rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.Last{
+    display: flex;
+    gap: 0.5rem;
+    width: 16rem;
+    height: 10.2rem;
+    padding-left: 0.4rem;
+    padding-bottom: 0.4rem;
+    padding-top: 0.4rem;
+    justify-content: center;
+    background-color: white;
+}
+.Respon{
+    border-color: whitesmoke;
+    border-radius: 10px;
+    width: 19rem;
+    height: 10rem;
+    border:2px solid whitesmoke;
+    margin-left: 1rem;
+    
+}
+.Respon h4{
+    text-align: center;
+    padding-top: 1.5rem;
+}
+.Respon i{
+    margin-left:5rem;
+    padding-top: 1.5rem;
+    font-size: 5rem;
+}
+.learn{
+    height: 2.2rem;
+    width: 10rem;
+    background-color: grey;
+    color: white;
+    margin-top: 1.9rem;
+}
+.Mother{
+    display: flex;
+    gap: 1rem;
+}
+
+
+
